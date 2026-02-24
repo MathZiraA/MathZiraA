@@ -10,12 +10,8 @@
 
 🎓 Técnico em Redes e Computadores  
 🌐 Foco em Infraestrutura e Segurança  
-☁️ Estudando Google Cloud  
 🖥️ Apaixonado por Servidores e Redes Corporativas  
 
----
-
-<h2>🛠️ Habilidades & Ferramentas</h2>
 
 
 ---
