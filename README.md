@@ -49,46 +49,24 @@
 
 
 
-## 🎓 Certificados
+---
 
-<p align="center">
-
-<!-- GOOGLE CLOUD -->
-<div style="display:flex; align-items:center; border:1px solid #2f2f2f; border-radius:12px; padding:20px; margin:20px; background-color:#0d1117;">
-
-<img src="https://images.credly.com/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="150" style="margin-right:25px;" />
-
-<div>
-
-<h3>☁️ Implantação de Serviços de Cibersegurança em Nuvem - Google Cloud</h3>
-
-<p>
-Certificação voltada à arquitetura segura, proteção de dados e implementação de serviços de cibersegurança na Google Cloud.
-</p>
-
-<a href="https://image2url.com/r2/default/files/1771959050883-989b9b7a-ddc2-4670-bba7-cb32743804d2.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Certificado-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</a>
-
-</div>
-</div>
-
+## 🏅 Certificações
 
 <!-- CCNA INTRO -->
-<div style="display:flex; align-items:center; border:1px solid #2f2f2f; border-radius:12px; padding:20px; margin:20px; background-color:#0d1117;">
+<div style="display:flex; align-items:center; border:1px solid #d1d5db; border-radius:8px; padding:20px; margin-bottom:20px; background-color:#ffffff;">
 
-<img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="150" style="margin-right:25px;" />
+<img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="120" style="margin-right:25px;" />
 
 <div>
+<h3 style="margin:0;">CCNA: Introduction to Networks</h3>
 
-<h3>🌍 CCNA: Introduction to Networks</h3>
-
-<p>
-Fundamentos de redes, modelo OSI, TCP/IP, endereçamento IP e configuração de dispositivos Cisco.
-</p>
+<br>
 
 <a href="https://www.credly.com/badges/f671fccc-1072-460d-8011-81e3b06558a0/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Certificado-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<button style="background-color:#14b8a6; color:white; border:none; padding:10px 18px; font-weight:bold; border-radius:4px; cursor:pointer;">
+🎓 VER CREDENCIAL
+</button>
 </a>
 
 </div>
@@ -96,27 +74,45 @@ Fundamentos de redes, modelo OSI, TCP/IP, endereçamento IP e configuração de 
 
 
 <!-- CCNA SWITCH -->
-<div style="display:flex; align-items:center; border:1px solid #2f2f2f; border-radius:12px; padding:20px; margin:20px; background-color:#0d1117;">
+<div style="display:flex; align-items:center; border:1px solid #d1d5db; border-radius:8px; padding:20px; margin-bottom:20px; background-color:#ffffff;">
 
-<img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="150" style="margin-right:25px;" />
+<img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="120" style="margin-right:25px;" />
 
 <div>
+<h3 style="margin:0;">CCNA: Switching, Routing, and Wireless Essentials</h3>
 
-<h3>🌐 CCNA: Switching, Routing, and Wireless Essentials</h3>
-
-<p>
-Roteamento, switching, VLANs, redes sem fio e fundamentos de infraestrutura corporativa Cisco.
-</p>
+<br>
 
 <a href="https://www.credly.com/badges/b1fb1b70-3c64-4a23-8f4d-d131164500e0/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Certificado-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<button style="background-color:#14b8a6; color:white; border:none; padding:10px 18px; font-weight:bold; border-radius:4px; cursor:pointer;">
+🎓 VER CREDENCIAL
+</button>
 </a>
 
 </div>
 </div>
 
-</p>
 
+<!-- GOOGLE CLOUD -->
+<div style="display:flex; align-items:center; border:1px solid #d1d5db; border-radius:8px; padding:20px; margin-bottom:20px; background-color:#ffffff;">
+
+<img src="https://images.credly.com/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="120" style="margin-right:25px;" />
+
+<div>
+<h3 style="margin:0;">Implantação de Serviços de Cibersegurança em Nuvem - Google Cloud</h3>
+
+<br>
+
+<a href="https://image2url.com/r2/default/files/1771959050883-989b9b7a-ddc2-4670-bba7-cb32743804d2.pdf" target="_blank">
+<button style="background-color:#14b8a6; color:white; border:none; padding:10px 18px; font-weight:bold; border-radius:4px; cursor:pointer;">
+☁️ VER CREDENCIAL
+</button>
+</a>
+
+</div>
+</div>
+
+---
 
 
 
