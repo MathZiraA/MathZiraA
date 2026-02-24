@@ -45,56 +45,60 @@
 
 
 
+
+
 ## 🎓 Certificados
 
 <p align="center">
 
 <!-- Certificado 1 -->
-<div style="border:1px solid #2f2f2f; border-radius:10px; padding:15px; margin:10px; width:80%;">
+<div style="border:1px solid #2f2f2f; border-radius:10px; padding:20px; margin:15px; width:85%; background-color:#0d1117;">
 
 <h3>☁️ Implantação de Serviços de Cibersegurança em Nuvem - Google Cloud</h3>
 
 <p>
-Certificação focada em segurança na nuvem, arquitetura segura e implementação de serviços utilizando Google Cloud.
+Certificação focada em arquitetura segura, proteção de dados e implantação de serviços de cibersegurança na Google Cloud.
 </p>
 
-<a href="#" target="_blank">
+<a href="https://github.com/SEU-USUARIO/SEU-REPOSITORIO/blob/main/certificados/ciberseguranca-google-cloud.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Certificado-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </a>
 
 </div>
 
 <!-- Certificado 2 -->
-<div style="border:1px solid #2f2f2f; border-radius:10px; padding:15px; margin:10px; width:80%;">
+<div style="border:1px solid #2f2f2f; border-radius:10px; padding:20px; margin:15px; width:85%; background-color:#0d1117;">
 
-<h3>🌐 CCNA: Switching, Routing, and Wireless Essentials</h3>
+<h3>🌍 CCNA: Introduction to Networks</h3>
 
 <p>
-Certificação Cisco com foco em roteamento, switching, redes sem fio e fundamentos de infraestrutura corporativa.
+Fundamentos de redes, modelo OSI, TCP/IP, endereçamento IP e configuração básica de dispositivos Cisco.
 </p>
 
-<a href="#" target="_blank">
+<a href="https://www.credly.com/badges/f671fccc-1072-460d-8011-81e3b06558a0/public_url" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Certificado-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </a>
 
 </div>
 
 <!-- Certificado 3 -->
-<div style="border:1px solid #2f2f2f; border-radius:10px; padding:15px; margin:10px; width:80%;">
+<div style="border:1px solid #2f2f2f; border-radius:10px; padding:20px; margin:15px; width:85%; background-color:#0d1117;">
 
-<h3>🌍 CCNA: Introduction to Networks</h3>
+<h3>🌐 CCNA: Switching, Routing, and Wireless Essentials</h3>
 
 <p>
-Fundamentos de redes, modelos OSI e TCP/IP, endereçamento IP e configuração básica de dispositivos Cisco.
+Roteamento, switching, VLANs, redes sem fio e fundamentos de infraestrutura corporativa Cisco.
 </p>
 
-<a href="#" target="_blank">
+<a href="https://www.credly.com/badges/b1fb1b70-3c64-4a23-8f4d-d131164500e0/public_url" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Certificado-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </a>
 
 </div>
 
 </p>
+
+
 
 
 ---
