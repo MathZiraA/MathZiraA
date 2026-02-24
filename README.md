@@ -20,7 +20,7 @@
 
 ---
 
-<h3>🖥️ Servidores & Infraestrutura</h3>
+<h2>🛠️ Habilidades & Ferramentas</h2>
 
 <table>
 <tr>
@@ -61,16 +61,6 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>pfSense</strong>
 </td>
 
-</tr>
-</table>
-
----
-
-<h3>🌐 Redes</h3>
-
-<table>
-<tr>
-
 <td align="center" width="120">
 <a href="https://www.cisco.com/" target="_blank">
 <img src="https://www.citypng.com/public/uploads/preview/cisco-square-blue-logo-icon-png-735811696612218gzoiadfplh.png"
@@ -80,6 +70,10 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>Cisco</strong>
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="120">
 <a href="https://www.netacad.com/courses/packet-tracer" target="_blank">
 <img src="https://cisco-packet-tracer.fileion.com/storage/software/logos/2025/06/cisco-packet-tracer.png"
@@ -88,16 +82,6 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 </a>
 <br><strong>Packet Tracer</strong>
 </td>
-
-</tr>
-</table>
-
----
-
-<h3>⚙️ Automação & IoT</h3>
-
-<table>
-<tr>
 
 <td align="center" width="120">
 <a href="https://www.arduino.cc/" target="_blank">
@@ -117,16 +101,6 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>MQTT</strong>
 </td>
 
-</tr>
-</table>
-
----
-
-<h3>☁️ Cloud</h3>
-
-<table>
-<tr>
-
 <td align="center" width="120">
 <a href="https://cloud.google.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
@@ -134,6 +108,15 @@ width="70"
 style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
 </a>
 <br><strong>Google Cloud</strong>
+</td>
+
+<td align="center" width="120">
+<a href="https://www.microsoft.com/microsoft-365" target="_blank">
+<img src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-microsoft-office-logo-icon-png-image_3588802.jpg"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>Microsoft Office</strong>
 </td>
 
 </tr>
