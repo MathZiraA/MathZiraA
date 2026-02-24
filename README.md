@@ -19,40 +19,39 @@
 
 ### 🖥️ Servidores
 
-<p align="left">
+<table>
+  <tr>
+    <!-- Linux -->
+    <td align="center" width="120">
+      <a href="#" target="_blank">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-svg-download-png-2944967.png"
+             width="70"
+             style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color:#0d1117;">
+      </a>
+      <br><strong>Linux</strong>
+    </td>
 
-<!-- Linux -->
-<a href="#" target="_blank" style="text-decoration:none;">
-  <div style="
-    display:inline-block;
-    padding:15px;
-    margin-right:15px;
-    border:2px solid #00FFD9;
-    border-radius:12px;
-    background-color:#0d1117;
-    transition:0.3s;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-svg-download-png-2944967.png"
-         width="60"
-         alt="Linux">
-  </div>
-</a>
+    <!-- Segundo Ícone -->
+    <td align="center" width="120">
+      <a href="#" target="_blank">
+        <img src="https://icon2.cleanpng.com/20180624/evg/aazmvbysy.webp"
+             width="70"
+             style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color:#0d1117;">
+      </a>
+      <br><strong>Servidor</strong>
+    </td>
 
-<!-- Segundo ícone -->
-<a href="#" target="_blank" style="text-decoration:none;">
-  <div style="
-    display:inline-block;
-    padding:15px;
-    border:2px solid #00FFD9;
-    border-radius:12px;
-    background-color:#0d1117;
-    transition:0.3s;">
-    <img src="https://icon2.cleanpng.com/20180624/evg/aazmvbysy.webp"
-         width="60"
-         alt="Servidor">
-  </div>
-</a>
-
-</p>
+    <!-- Apache -->
+    <td align="center" width="120">
+      <a href="#" target="_blank">
+        <img src="https://img.icons8.com/color/480/apache-http-server.png"
+             width="70"
+             style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color:#0d1117;">
+      </a>
+      <br><strong>Apache</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
