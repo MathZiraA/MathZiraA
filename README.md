@@ -17,41 +17,6 @@
 
 <h2>🛠️ Habilidades & Ferramentas</h2>
 
-<h3>💻 Linguagens</h3>
-
-<table>
-<tr>
-
-<td align="center" width="96">
-<a href="https://www.python.org" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
-</a>
-<br>Python
-</td>
-
-<td align="center" width="96">
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
-</a>
-<br>C++
-</td>
-
-<td align="center" width="96">
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
-</a>
-<br>JavaScript
-</td>
-
-<td align="center" width="96">
-<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/>
-</a>
-<br>C#
-</td>
-
-</tr>
-</table>
 
 ---
 
