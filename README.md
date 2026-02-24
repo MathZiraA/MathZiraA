@@ -81,14 +81,9 @@
   💡 "Infraestrutura forte é base de tudo."
 </p>
 
----
 
-## 🔥 Atualmente estudando
 
-- Segurança de Redes
-- Cloud Computing
-- Infraestrutura Linux Avançada
-- Firewall e Hardening
+
 
 ---
 
