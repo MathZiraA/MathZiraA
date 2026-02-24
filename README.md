@@ -43,16 +43,59 @@
 
 ---
 
+
+
 ## 🎓 Certificados
 
-<p align="left">
+<p align="center">
 
-🏅 Curso de Redes de Computadores  
-🏅 Cisco Networking (em andamento)  
-🏅 Google Cloud Fundamentals (em andamento)  
-🏅 Segurança da Informação  
+<!-- Certificado 1 -->
+<div style="border:1px solid #2f2f2f; border-radius:10px; padding:15px; margin:10px; width:80%;">
+
+<h3>☁️ Implantação de Serviços de Cibersegurança em Nuvem - Google Cloud</h3>
+
+<p>
+Certificação focada em segurança na nuvem, arquitetura segura e implementação de serviços utilizando Google Cloud.
+</p>
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Certificado-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</a>
+
+</div>
+
+<!-- Certificado 2 -->
+<div style="border:1px solid #2f2f2f; border-radius:10px; padding:15px; margin:10px; width:80%;">
+
+<h3>🌐 CCNA: Switching, Routing, and Wireless Essentials</h3>
+
+<p>
+Certificação Cisco com foco em roteamento, switching, redes sem fio e fundamentos de infraestrutura corporativa.
+</p>
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Certificado-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
+
+</div>
+
+<!-- Certificado 3 -->
+<div style="border:1px solid #2f2f2f; border-radius:10px; padding:15px; margin:10px; width:80%;">
+
+<h3>🌍 CCNA: Introduction to Networks</h3>
+
+<p>
+Fundamentos de redes, modelos OSI e TCP/IP, endereçamento IP e configuração básica de dispositivos Cisco.
+</p>
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Certificado-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
+
+</div>
 
 </p>
+
 
 ---
 
