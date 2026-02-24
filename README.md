@@ -52,11 +52,6 @@
 
 ---
 
-## 📈 Estatísticas GitHub
-
-
----
-
 ## 🔥 Streak de Contribuições
 
 <p align="center">
