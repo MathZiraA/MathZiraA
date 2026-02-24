@@ -60,7 +60,7 @@
 Certificação focada em arquitetura segura, proteção de dados e implantação de serviços de cibersegurança na Google Cloud.
 </p>
 
-<a href="https://github.com/SEU-USUARIO/SEU-REPOSITORIO/blob/main/certificados/ciberseguranca-google-cloud.pdf" target="_blank">
+<a href="https://image2url.com/r2/default/files/1771959050883-989b9b7a-ddc2-4670-bba7-cb32743804d2.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Certificado-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </a>
 
