@@ -21,35 +21,37 @@
 
 <table>
   <tr>
+
     <!-- Linux -->
     <td align="center" width="120">
-      <a href="#" target="_blank">
+      <a href="https://www.linux.org" target="_blank">
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-svg-download-png-2944967.png"
              width="70"
-             style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color:#0d1117;">
+             style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
       </a>
       <br><strong>Linux</strong>
     </td>
 
-    <!-- Segundo Ícone -->
+    <!-- Servidor (segundo ícone) -->
     <td align="center" width="120">
       <a href="#" target="_blank">
         <img src="https://icon2.cleanpng.com/20180624/evg/aazmvbysy.webp"
              width="70"
-             style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color:#0d1117;">
+             style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
       </a>
       <br><strong>Servidor</strong>
     </td>
 
     <!-- Apache -->
     <td align="center" width="120">
-      <a href="#" target="_blank">
+      <a href="https://httpd.apache.org" target="_blank">
         <img src="https://img.icons8.com/color/480/apache-http-server.png"
              width="70"
-             style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color:#0d1117;">
+             style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
       </a>
       <br><strong>Apache</strong>
     </td>
+
   </tr>
 </table>
 
