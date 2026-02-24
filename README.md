@@ -35,12 +35,12 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
 </td>
 
 <td align="center" width="120">
-<a href="#" target="_blank">
-<img src="https://img.icons8.com/fluency/96/server.png"
+<a href="https://www.microsoft.com/windows-server" target="_blank">
+<img src="https://icon2.cleanpng.com/20180624/evg/aazmvbysy.webp"
 width="70"
 style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
 </a>
-<br><strong>Servidor</strong>
+<br><strong>Windows Server</strong>
 </td>
 
 <td align="center" width="120">
@@ -53,19 +53,10 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
 </td>
 
 <td align="center" width="120">
-<a href="https://www.nginx.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
-width="70"
-style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
-</a>
-<br><strong>Nginx</strong>
-</td>
-
-<td align="center" width="120">
 <a href="https://www.pfsense.org/" target="_blank">
-<img src="https://img.icons8.com/fluency/96/firewall.png"
+<img src="https://www.itandgeneral.com/wp-content/uploads/2023/11/pfsense-logo-square.png"
 width="70"
-style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
 </a>
 <br><strong>pfSense</strong>
 </td>
@@ -82,18 +73,18 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
 
 <td align="center" width="120">
 <a href="https://www.cisco.com/" target="_blank">
-<img src="https://img.icons8.com/color/96/cisco.png"
+<img src="https://www.citypng.com/public/uploads/preview/cisco-square-blue-logo-icon-png-735811696612218gzoiadfplh.png"
 width="70"
-style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
 </a>
 <br><strong>Cisco</strong>
 </td>
 
 <td align="center" width="120">
 <a href="https://www.netacad.com/courses/packet-tracer" target="_blank">
-<img src="https://img.icons8.com/color/96/router.png"
+<img src="https://cisco-packet-tracer.fileion.com/storage/software/logos/2025/06/cisco-packet-tracer.png"
 width="70"
-style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
 </a>
 <br><strong>Packet Tracer</strong>
 </td>
@@ -118,30 +109,12 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
 </td>
 
 <td align="center" width="120">
-<a href="#" target="_blank">
-<img src="https://img.icons8.com/color/96/esp32.png"
-width="70"
-style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
-</a>
-<br><strong>ESP32</strong>
-</td>
-
-<td align="center" width="120">
 <a href="https://mqtt.org/" target="_blank">
-<img src="https://img.icons8.com/color/96/mqtt.png"
+<img src="https://automacaoexpert.com/wp-content/uploads/2022/08/MQTT-300x257.jpg"
 width="70"
-style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
 </a>
 <br><strong>MQTT</strong>
-</td>
-
-<td align="center" width="120">
-<a href="#" target="_blank">
-<img src="https://img.icons8.com/color/96/database.png"
-width="70"
-style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
-</a>
-<br><strong>SCADA</strong>
 </td>
 
 </tr>
@@ -165,7 +138,6 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
 
 </tr>
 </table>
-
 
 
 
