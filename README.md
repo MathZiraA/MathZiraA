@@ -15,66 +15,192 @@
 
 ---
 
-## 🧠 Skills Técnicas
+<h2>🛠️ Habilidades & Ferramentas</h2>
 
-### 🖥️ Servidores
+<h3>💻 Linguagens</h3>
 
 <table>
-  <tr>
+<tr>
 
-    <!-- Linux -->
-    <td align="center" width="120">
-      <a href="https://www.linux.org" target="_blank">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-svg-download-png-2944967.png"
-             width="70"
-             style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
-      </a>
-      <br><strong>Linux</strong>
-    </td>
+<td align="center" width="96">
+<a href="https://www.python.org" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+</a>
+<br>Python
+</td>
 
-    <!-- Servidor (segundo ícone) -->
-    <td align="center" width="120">
-      <a href="#" target="_blank">
-        <img src="https://icon2.cleanpng.com/20180624/evg/aazmvbysy.webp"
-             width="70"
-             style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
-      </a>
-      <br><strong>Servidor</strong>
-    </td>
+<td align="center" width="96">
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
+</a>
+<br>C++
+</td>
 
-    <!-- Apache -->
-    <td align="center" width="120">
-      <a href="https://httpd.apache.org" target="_blank">
-        <img src="https://img.icons8.com/color/480/apache-http-server.png"
-             width="70"
-             style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
-      </a>
-      <br><strong>Apache</strong>
-    </td>
+<td align="center" width="96">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+</a>
+<br>JavaScript
+</td>
 
-  </tr>
+<td align="center" width="96">
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/>
+</a>
+<br>C#
+</td>
+
+</tr>
 </table>
 
 ---
 
-### 🌐 Redes
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge)
+<h3>🖥️ Servidores & Infraestrutura</h3>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<a href="https://www.linux.org" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+</a>
+<br><strong>Linux</strong>
+</td>
+
+<td align="center" width="120">
+<a href="#" target="_blank">
+<img src="https://img.icons8.com/fluency/96/server.png"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+</a>
+<br><strong>Servidor</strong>
+</td>
+
+<td align="center" width="120">
+<a href="https://httpd.apache.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+</a>
+<br><strong>Apache</strong>
+</td>
+
+<td align="center" width="120">
+<a href="https://www.nginx.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+</a>
+<br><strong>Nginx</strong>
+</td>
+
+<td align="center" width="120">
+<a href="https://www.pfsense.org/" target="_blank">
+<img src="https://img.icons8.com/fluency/96/firewall.png"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+</a>
+<br><strong>pfSense</strong>
+</td>
+
+</tr>
+</table>
 
 ---
 
-### ☁️ Cloud
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+<h3>🌐 Redes</h3>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<a href="https://www.cisco.com/" target="_blank">
+<img src="https://img.icons8.com/color/96/cisco.png"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+</a>
+<br><strong>Cisco</strong>
+</td>
+
+<td align="center" width="120">
+<a href="https://www.netacad.com/courses/packet-tracer" target="_blank">
+<img src="https://img.icons8.com/color/96/router.png"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+</a>
+<br><strong>Packet Tracer</strong>
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 💻 Ferramentas & Scripts
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice)
+<h3>⚙️ Automação & IoT</h3>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<a href="https://www.arduino.cc/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+</a>
+<br><strong>Arduino</strong>
+</td>
+
+<td align="center" width="120">
+<a href="#" target="_blank">
+<img src="https://img.icons8.com/color/96/esp32.png"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+</a>
+<br><strong>ESP32</strong>
+</td>
+
+<td align="center" width="120">
+<a href="https://mqtt.org/" target="_blank">
+<img src="https://img.icons8.com/color/96/mqtt.png"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+</a>
+<br><strong>MQTT</strong>
+</td>
+
+<td align="center" width="120">
+<a href="#" target="_blank">
+<img src="https://img.icons8.com/color/96/database.png"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+</a>
+<br><strong>SCADA</strong>
+</td>
+
+</tr>
+</table>
 
 ---
+
+<h3>☁️ Cloud</h3>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<a href="https://cloud.google.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+</a>
+<br><strong>Google Cloud</strong>
+</td>
+
+</tr>
+</table>
+
 
 
 
