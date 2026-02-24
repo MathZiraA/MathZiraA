@@ -51,68 +51,54 @@
 
 ---
 
-## 🏅 Certificações
+<h2 align="left">🏅 Certificações</h2>
 
-<!-- CCNA INTRO -->
-<div style="display:flex; align-items:center; border:1px solid #d1d5db; border-radius:8px; padding:20px; margin-bottom:20px; background-color:#ffffff;">
+<table>
 
-<img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="120" style="margin-right:25px;" />
+  <!-- CCNA Introduction -->
+  <tr>
+    <td width="120">
+      <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="CCNA ITN Badge">
+    </td>
+    <td>
+      <strong>CCNA: Introduction to Networks</strong><br>
+      <a href="https://www.credly.com/badges/f671fccc-1072-460d-8011-81e3b06558a0/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/🎓%20Ver%20Credencial-121212?style=for-the-badge&logo=mozilla%20firefox&logoColor=00FFD9&color=00FFD9&labelColor=121212">
+      </a>
+    </td>
+  </tr>
 
-<div>
-<h3 style="margin:0;">CCNA: Introduction to Networks</h3>
+  <tr><td colspan="2"><br></td></tr>
 
-<br>
+  <!-- Switching Routing -->
+  <tr>
+    <td width="120">
+      <img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="Switching Routing Badge">
+    </td>
+    <td>
+      <strong>CCNA: Switching, Routing, and Wireless Essentials</strong><br>
+      <a href="https://www.credly.com/badges/b1fb1b70-3c64-4a23-8f4d-d131164500e0/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/🎓%20Ver%20Credencial-121212?style=for-the-badge&logo=mozilla%20firefox&logoColor=00FFD9&color=00FFD9&labelColor=121212">
+      </a>
+    </td>
+  </tr>
 
-<a href="https://www.credly.com/badges/f671fccc-1072-460d-8011-81e3b06558a0/public_url" target="_blank">
-<button style="background-color:#14b8a6; color:white; border:none; padding:10px 18px; font-weight:bold; border-radius:4px; cursor:pointer;">
-🎓 VER CREDENCIAL
-</button>
-</a>
+  <tr><td colspan="2"><br></td></tr>
 
-</div>
-</div>
+  <!-- Google Cloud Cyber -->
+  <tr>
+    <td width="120">
+      <img src="https://images.credly.com/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="Google Cloud Cybersecurity Badge">
+    </td>
+    <td>
+      <strong>Implantação de Serviços de Cibersegurança em Nuvem - Google Cloud</strong><br>
+      <a href="https://image2url.com/r2/default/files/1771959050883-989b9b7a-ddc2-4670-bba7-cb32743804d2.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/☁️%20Ver%20Certificado-121212?style=for-the-badge&logo=googlecloud&logoColor=00FFD9&color=00FFD9&labelColor=121212">
+      </a>
+    </td>
+  </tr>
 
-
-<!-- CCNA SWITCH -->
-<div style="display:flex; align-items:center; border:1px solid #d1d5db; border-radius:8px; padding:20px; margin-bottom:20px; background-color:#ffffff;">
-
-<img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="120" style="margin-right:25px;" />
-
-<div>
-<h3 style="margin:0;">CCNA: Switching, Routing, and Wireless Essentials</h3>
-
-<br>
-
-<a href="https://www.credly.com/badges/b1fb1b70-3c64-4a23-8f4d-d131164500e0/public_url" target="_blank">
-<button style="background-color:#14b8a6; color:white; border:none; padding:10px 18px; font-weight:bold; border-radius:4px; cursor:pointer;">
-🎓 VER CREDENCIAL
-</button>
-</a>
-
-</div>
-</div>
-
-
-<!-- GOOGLE CLOUD -->
-<div style="display:flex; align-items:center; border:1px solid #d1d5db; border-radius:8px; padding:20px; margin-bottom:20px; background-color:#ffffff;">
-
-<img src="https://images.credly.com/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="120" style="margin-right:25px;" />
-
-<div>
-<h3 style="margin:0;">Implantação de Serviços de Cibersegurança em Nuvem - Google Cloud</h3>
-
-<br>
-
-<a href="https://image2url.com/r2/default/files/1771959050883-989b9b7a-ddc2-4670-bba7-cb32743804d2.pdf" target="_blank">
-<button style="background-color:#14b8a6; color:white; border:none; padding:10px 18px; font-weight:bold; border-radius:4px; cursor:pointer;">
-☁️ VER CREDENCIAL
-</button>
-</a>
-
-</div>
-</div>
-
----
+</table>
 
 
 
