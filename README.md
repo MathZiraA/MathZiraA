@@ -18,9 +18,19 @@
 ## 🧠 Skills Técnicas
 
 ### 🖥️ Servidores
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
+
+<p align="left">
+
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-svg-download-png-2944967.png" 
+     width="40" 
+     style="vertical-align:middle; margin-right:8px;" 
+     alt="Linux Logo"/>
+
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows" />
+
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache" />
+
+</p>
 
 ---
 
