@@ -228,6 +228,4 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 
 ---
 
-<p align="center">
-  💡 "Transformando infraestrutura em performance."
-</p>
+
