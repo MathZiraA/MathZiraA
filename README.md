@@ -20,7 +20,7 @@
 ### 🖥️ Servidores
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
 
 ---
 
@@ -36,9 +36,23 @@
 
 ---
 
-### 💻 Ferramentas
+### 💻 Ferramentas & Scripts
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice)
+
+---
+
+## 🎓 Certificados
+
+<p align="left">
+
+🏅 Curso de Redes de Computadores  
+🏅 Cisco Networking (em andamento)  
+🏅 Google Cloud Fundamentals (em andamento)  
+🏅 Segurança da Informação  
+
+</p>
 
 ---
 
@@ -72,6 +86,8 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
 
 </p>
 
@@ -80,10 +96,6 @@
 <p align="center">
   💡 "Infraestrutura forte é base de tudo."
 </p>
-
-
-
-
 
 ---
 
