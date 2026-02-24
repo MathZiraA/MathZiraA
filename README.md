@@ -42,11 +42,61 @@
 
 ---
 
-## 📊 Estatísticas
+<h1 align="center">📊 MathZiraA</h1>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MathZiraA&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathZiraA&layout=compact&theme=tokyonight"/>
+  🚀 Técnico em Redes e Computadores  
+  <br>
+  🌐 Infraestrutura | Servidores | Cloud
+</p>
+
+---
+
+## 📈 Estatísticas GitHub
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MathZiraA&show_icons=true&theme=radical&count_private=true" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathZiraA&layout=compact&theme=radical" 
+    height="170"
+  />
+</p>
+
+---
+
+## 🔥 Streak de Contribuições
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=MathZiraA&theme=radical&hide_border=false" 
+    height="170"
+  />
+</p>
+
+---
+
+## 🖥️ Tecnologias
+
+<p align="center">
+
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+
+</p>
+
+---
+
+<p align="center">
+  💡 "Infraestrutura forte é base de tudo."
 </p>
 
 ---
