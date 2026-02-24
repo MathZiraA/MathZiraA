@@ -47,17 +47,23 @@
 
 
 
+
+
 ## 🎓 Certificados
 
 <p align="center">
 
-<!-- Certificado 1 -->
-<div style="border:1px solid #2f2f2f; border-radius:10px; padding:20px; margin:15px; width:85%; background-color:#0d1117;">
+<!-- GOOGLE CLOUD -->
+<div style="display:flex; align-items:center; border:1px solid #2f2f2f; border-radius:12px; padding:20px; margin:20px; background-color:#0d1117;">
+
+<img src="https://images.credly.com/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="150" style="margin-right:25px;" />
+
+<div>
 
 <h3>☁️ Implantação de Serviços de Cibersegurança em Nuvem - Google Cloud</h3>
 
 <p>
-Certificação focada em arquitetura segura, proteção de dados e implantação de serviços de cibersegurança na Google Cloud.
+Certificação voltada à arquitetura segura, proteção de dados e implementação de serviços de cibersegurança na Google Cloud.
 </p>
 
 <a href="https://image2url.com/r2/default/files/1771959050883-989b9b7a-ddc2-4670-bba7-cb32743804d2.pdf" target="_blank">
@@ -65,14 +71,20 @@ Certificação focada em arquitetura segura, proteção de dados e implantação
 </a>
 
 </div>
+</div>
 
-<!-- Certificado 2 -->
-<div style="border:1px solid #2f2f2f; border-radius:10px; padding:20px; margin:15px; width:85%; background-color:#0d1117;">
+
+<!-- CCNA INTRO -->
+<div style="display:flex; align-items:center; border:1px solid #2f2f2f; border-radius:12px; padding:20px; margin:20px; background-color:#0d1117;">
+
+<img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="150" style="margin-right:25px;" />
+
+<div>
 
 <h3>🌍 CCNA: Introduction to Networks</h3>
 
 <p>
-Fundamentos de redes, modelo OSI, TCP/IP, endereçamento IP e configuração básica de dispositivos Cisco.
+Fundamentos de redes, modelo OSI, TCP/IP, endereçamento IP e configuração de dispositivos Cisco.
 </p>
 
 <a href="https://www.credly.com/badges/f671fccc-1072-460d-8011-81e3b06558a0/public_url" target="_blank">
@@ -80,9 +92,15 @@ Fundamentos de redes, modelo OSI, TCP/IP, endereçamento IP e configuração bá
 </a>
 
 </div>
+</div>
 
-<!-- Certificado 3 -->
-<div style="border:1px solid #2f2f2f; border-radius:10px; padding:20px; margin:15px; width:85%; background-color:#0d1117;">
+
+<!-- CCNA SWITCH -->
+<div style="display:flex; align-items:center; border:1px solid #2f2f2f; border-radius:12px; padding:20px; margin:20px; background-color:#0d1117;">
+
+<img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="150" style="margin-right:25px;" />
+
+<div>
 
 <h3>🌐 CCNA: Switching, Routing, and Wireless Essentials</h3>
 
@@ -95,8 +113,11 @@ Roteamento, switching, VLANs, redes sem fio e fundamentos de infraestrutura corp
 </a>
 
 </div>
+</div>
 
 </p>
+
+
 
 
 
