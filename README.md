@@ -20,6 +20,7 @@
 
 ---
 
+
 <h2>🛠️ Habilidades & Ferramentas</h2>
 
 <table>
@@ -36,9 +37,9 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
 
 <td align="center" width="120">
 <a href="https://www.microsoft.com/windows-server" target="_blank">
-<img src="https://icon2.cleanpng.com/20180624/evg/aazmvbysy.webp"
+<img src="https://softwaresprime.com.br/wp-content/uploads/2021/12/microsoft-windows-server-2022-standard.png"
 width="70"
-style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
 </a>
 <br><strong>Windows Server</strong>
 </td>
@@ -121,7 +122,6 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 
 </tr>
 </table>
-
 
 
 
