@@ -1,187 +1,143 @@
-<h1 align="center">🚀 Técnico em Redes e Computadores</h1>
+<h1 align="center">Olá, eu sou o Matheus 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Infraestrutura+de+Redes;Especialista+em+Servidores;Linux+%7C+Windows+Server;Cisco+%7C+pfSense;Google+Cloud+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFD9&center=true&vCenter=true&width=435&lines=T%C3%A9cnico+em+Redes;Foco+em+Automacao+e+Infraestrutura;Apaixonado+por+Seguranca+e+Servidores" />
 </p>
 
----
-
-## 👨‍💻 Sobre mim
-
-🎓 Técnico em Redes e Computadores  
-🌐 Foco em Infraestrutura e Segurança  
-☁️ Estudando Google Cloud  
-🖥️ Apaixonado por Servidores e Redes Corporativas  
-
----
-
-## 🧠 Skills Técnicas
-
-### 🖥️ Servidores
-
-<table>
-  <tr>
-
-    <!-- Linux -->
-    <td align="center" width="120">
-      <a href="https://www.linux.org" target="_blank">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-svg-download-png-2944967.png"
-             width="70"
-             style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
-      </a>
-      <br><strong>Linux</strong>
-    </td>
-
-    <!-- Servidor (segundo ícone) -->
-    <td align="center" width="120">
-      <a href="#" target="_blank">
-        <img src="https://icon2.cleanpng.com/20180624/evg/aazmvbysy.webp"
-             width="70"
-             style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
-      </a>
-      <br><strong>Servidor</strong>
-    </td>
-
-    <!-- Apache -->
-    <td align="center" width="120">
-      <a href="https://httpd.apache.org" target="_blank">
-        <img src="https://img.icons8.com/color/480/apache-http-server.png"
-             width="70"
-             style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
-      </a>
-      <br><strong>Apache</strong>
-    </td>
-
-  </tr>
-</table>
-
----
-
-### 🌐 Redes
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge)
-
----
-
-### ☁️ Cloud
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
-
----
-
-### 💻 Ferramentas & Scripts
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice)
-
----
-
-
-
-
-
-
+<p align="center">
+Técnico em Redes, apaixonado por infraestrutura, segurança, automação e desenvolvimento de soluções inteligentes com ESP32, MQTT e servidores Linux.
+</p>
 
 ---
 
 <h2 align="left">🏅 Certificações</h2>
 
 <table>
-
-  <!-- CCNA Introduction -->
-  <tr>
-    <td width="120">
-      <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="CCNA ITN Badge">
-    </td>
-    <td>
-      <strong>CCNA: Introduction to Networks</strong><br>
-      <a href="https://www.credly.com/badges/f671fccc-1072-460d-8011-81e3b06558a0/public_url" target="_blank">
-        <img src="https://img.shields.io/badge/🎓%20Ver%20Credencial-121212?style=for-the-badge&logo=mozilla%20firefox&logoColor=00FFD9&color=00FFD9&labelColor=121212">
-      </a>
-    </td>
-  </tr>
-
-  <tr><td colspan="2"><br></td></tr>
-
-  <!-- Switching Routing -->
-  <tr>
-    <td width="120">
-      <img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="Switching Routing Badge">
-    </td>
-    <td>
-      <strong>CCNA: Switching, Routing, and Wireless Essentials</strong><br>
-      <a href="https://www.credly.com/badges/b1fb1b70-3c64-4a23-8f4d-d131164500e0/public_url" target="_blank">
-        <img src="https://img.shields.io/badge/🎓%20Ver%20Credencial-121212?style=for-the-badge&logo=mozilla%20firefox&logoColor=00FFD9&color=00FFD9&labelColor=121212">
-      </a>
-    </td>
-  </tr>
-
-  <tr><td colspan="2"><br></td></tr>
-
-  <!-- Google Cloud Cyber -->
-  <tr>
-    <td width="120">
-      <img src="https://images.credly.com/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="Google Cloud Cybersecurity Badge">
-    </td>
-    <td>
-      <strong>Implantação de Serviços de Cibersegurança em Nuvem - Google Cloud</strong><br>
-      <a href="https://image2url.com/r2/default/files/1771959050883-989b9b7a-ddc2-4670-bba7-cb32743804d2.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/☁️%20Ver%20Certificado-121212?style=for-the-badge&logo=googlecloud&logoColor=00FFD9&color=00FFD9&labelColor=121212">
-      </a>
-    </td>
-  </tr>
-
+<tr>
+<td width="120">
+<img src="https://i.postimg.cc/2y0ppRwB/ccna-introduction-to-networks.png" width="100"
+style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" />
+</td>
+<td>
+<strong>CCNA: Introduction to Networks</strong><br>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/🎓%20Ver%20Credencial-121212?style=for-the-badge&logo=mozilla%20firefox&logoColor=00FFD9&color=00FFD9&labelColor=121212">
+</a>
+</td>
+</tr>
 </table>
 
+---
 
+<h2>🛠️ Habilidades & Ferramentas</h2>
 
+<h3>💻 Linguagens</h3>
 
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+<br>Python
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
+<br>C++
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+<br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/>
+<br>C#
+</td>
+</tr>
+</table>
 
 ---
 
-<h1 align="center">📊 MathZiraA</h1>
+<h3>🌐 Infraestrutura & Redes</h3>
+
+<table>
+<tr>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
+<br>Linux
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48"/>
+<br>Nginx
+</td>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48"/>
+<br>Apache
+</td>
+
+<td align="center" width="96">
+<img src="https://img.icons8.com/fluency/96/firewall.png" width="48"/>
+<br>pfSense
+</td>
+
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/96/router.png" width="48"/>
+<br>Redes
+</td>
+
+</tr>
+</table>
+
+---
+
+<h3>⚙️ Automação & IoT</h3>
+
+<table>
+<tr>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48"/>
+<br>Arduino
+</td>
+
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/96/esp32.png" width="48"/>
+<br>ESP32
+</td>
+
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/96/mqtt.png" width="48"/>
+<br>MQTT
+</td>
+
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/96/database.png" width="48"/>
+<br>SCADA
+</td>
+
+</tr>
+</table>
+
+---
+
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-  🚀 Técnico em Redes e Computadores  
-  <br>
-  🌐 Infraestrutura | Servidores | Cloud
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true&border_radius=10"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true&border_radius=10"/>
 </p>
 
 ---
 
-## 🔥 Streak de Contribuições
-
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=MathZiraA&theme=radical&hide_border=false" 
-    height="170"
-  />
+<strong>"Transformando café em automação ☕⚡"</strong>
 </p>
 
----
-
-## 🖥️ Tecnologias
-
 <p align="center">
-
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
-
-</p>
-
----
-
-<p align="center">
-  💡 "Infraestrutura forte é base de tudo."
-</p>
-
----
-
-<p align="center">
-  💡 "Transformando infraestrutura em performance."
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </p>
