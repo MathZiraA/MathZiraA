@@ -21,17 +21,38 @@
 
 <p align="left">
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-svg-download-png-2944967.png" 
-     width="40" 
-     style="vertical-align:middle; margin-right:8px;" 
-     alt="Linux Logo"/>
+<!-- Linux -->
+<a href="#" target="_blank" style="text-decoration:none;">
+  <div style="
+    display:inline-block;
+    padding:15px;
+    margin-right:15px;
+    border:2px solid #00FFD9;
+    border-radius:12px;
+    background-color:#0d1117;
+    transition:0.3s;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-svg-download-png-2944967.png"
+         width="60"
+         alt="Linux">
+  </div>
+</a>
 
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows" />
-
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache" />
+<!-- Segundo ícone -->
+<a href="#" target="_blank" style="text-decoration:none;">
+  <div style="
+    display:inline-block;
+    padding:15px;
+    border:2px solid #00FFD9;
+    border-radius:12px;
+    background-color:#0d1117;
+    transition:0.3s;">
+    <img src="https://icon2.cleanpng.com/20180624/evg/aazmvbysy.webp"
+         width="60"
+         alt="Servidor">
+  </div>
+</a>
 
 </p>
-
 ---
 
 ### 🌐 Redes
