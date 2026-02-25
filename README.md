@@ -67,6 +67,42 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>Cisco</strong>
 </td>
 
+<td align="center" width="120">
+<a href="https://www.arduino.cc/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+</a>
+<br><strong>Arduino</strong>
+</td>
+
+<td align="center" width="120">
+<a href="https://cloud.google.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
+</a>
+<br><strong>Google Cloud</strong>
+</td>
+
+<td align="center" width="120">
+<a href="#" target="_blank">
+<img src="https://www.entelco.com.br/blog/wp-content/uploads/2015/10/TCP-IP-2.png"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>TCP/IP</strong>
+</td>
+
+<td align="center" width="120">
+<a href="#" target="_blank">
+<img src="https://www.shutterstock.com/image-vector/vector-simple-isolated-modem-icon-600nw-2676021151.jpg"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>Routing</strong>
+</td>
+
 </tr>
 
 <tr>
@@ -80,14 +116,7 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>Packet Tracer</strong>
 </td>
 
-<td align="center" width="120">
-<a href="https://www.arduino.cc/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
-width="70"
-style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
-</a>
-<br><strong>Arduino</strong>
-</td>
+
 
 <td align="center" width="120">
 <a href="https://mqtt.org/" target="_blank">
@@ -98,14 +127,7 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>MQTT</strong>
 </td>
 
-<td align="center" width="120">
-<a href="https://cloud.google.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-width="70"
-style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
-</a>
-<br><strong>Google Cloud</strong>
-</td>
+
 
 <td align="center" width="120">
 <a href="https://www.microsoft.com/microsoft-365" target="_blank">
@@ -117,14 +139,7 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 </td>
 
 
-<td align="center" width="120">
-<a href="#" target="_blank">
-<img src="https://www.entelco.com.br/blog/wp-content/uploads/2015/10/TCP-IP-2.png"
-width="70"
-style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
-</a>
-<br><strong>TCP/IP</strong>
-</td>
+
 
 <td align="center" width="120">
 <a href="#" target="_blank">
@@ -135,14 +150,7 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>Switching</strong>
 </td>
 
-<td align="center" width="120">
-<a href="#" target="_blank">
-<img src="https://www.shutterstock.com/image-vector/vector-simple-isolated-modem-icon-600nw-2676021151.jpg"
-width="70"
-style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
-</a>
-<br><strong>Routing</strong>
-</td>
+
 
 <td align="center" width="120">
 <a href="#" target="_blank">
