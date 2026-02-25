@@ -136,7 +136,7 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 
 <td align="center" width="120">
 <a href="#" target="_blank">
-<img src="https://www.nicepng.com/png/full/125-1255999_ethernet-switch-comments-network-switch-icon-png.png"
+<img src="https://w7.pngwing.com/pngs/974/626/png-transparent-network-switch-computer-icons-computer-network-switch-miscellaneous-electronics-local-area-network.png"
 width="70"
 style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
 </a>
