@@ -116,6 +116,61 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>Microsoft Office</strong>
 </td>
 
+
+<td align="center" width="120">
+<a href="#" target="_blank">
+<img src="https://www.entelco.com.br/blog/wp-content/uploads/2015/10/TCP-IP-2.png"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>TCP/IP</strong>
+</td>
+
+<td align="center" width="120">
+<a href="#" target="_blank">
+<img src="https://www.nicepng.com/png/full/125-1255999_ethernet-switch-comments-network-switch-icon-png.png"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>Switching</strong>
+</td>
+
+<td align="center" width="120">
+<a href="#" target="_blank">
+<img src="https://www.shutterstock.com/image-vector/vector-simple-isolated-modem-icon-600nw-2676021151.jpg"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>Routing</strong>
+</td>
+
+<td align="center" width="120">
+<a href="#" target="_blank">
+<img src="https://symbols.getvecta.com/stencil_27/42_dns.092432ba49.jpg"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>DNS</strong>
+</td>
+
+<td align="center" width="120">
+<a href="#" target="_blank">
+<img src="https://img.freepik.com/vetores-premium/estilo-de-icone-de-bloqueio-de-seguranca-do-firewall-de-design-vetorial_822882-131686.jpg?semt=ais_hybrid&w=740&q=80"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>Firewall</strong>
+</td>
+
+<td align="center" width="120">
+<a href="#" target="_blank">
+<img src="https://img.freepik.com/vetores-premium/icone-de-rede-de-cabo-ethernet-em-branco_116137-9273.jpg"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>Cabeamento Estruturado</strong>
+</td>
+
 </tr>
 </table>
 
