@@ -94,14 +94,7 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>TCP/IP</strong>
 </td>
 
-<td align="center" width="120">
-<a href="#" target="_blank">
-<img src="https://www.shutterstock.com/image-vector/vector-simple-isolated-modem-icon-600nw-2676021151.jpg"
-width="70"
-style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
-</a>
-<br><strong>Routing</strong>
-</td>
+
 
 </tr>
 
@@ -177,6 +170,15 @@ width="70"
 style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
 </a>
 <br><strong>Cabeamento Estruturado</strong>
+</td>
+
+<td align="center" width="120">
+<a href="#" target="_blank">
+<img src="https://www.shutterstock.com/image-vector/vector-simple-isolated-modem-icon-600nw-2676021151.jpg"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>Routing</strong>
 </td>
 
 </tr>
