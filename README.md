@@ -86,15 +86,13 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px;">
 </td>
 
 <td align="center" width="120">
-<a href="#" target="_blank">
+<a href="https://www.fortinet.com/resources/cyberglossary/tcp-ip" target="_blank">
 <img src="https://www.entelco.com.br/blog/wp-content/uploads/2015/10/TCP-IP-2.png"
 width="70"
 style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
 </a>
 <br><strong>TCP/IP</strong>
 </td>
-
-
 
 </tr>
 
@@ -109,8 +107,6 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>Packet Tracer</strong>
 </td>
 
-
-
 <td align="center" width="120">
 <a href="https://mqtt.org/" target="_blank">
 <img src="https://automacaoexpert.com/wp-content/uploads/2022/08/MQTT-300x257.jpg"
@@ -119,8 +115,6 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 </a>
 <br><strong>MQTT</strong>
 </td>
-
-
 
 <td align="center" width="120">
 <a href="https://www.microsoft.com/microsoft-365" target="_blank">
@@ -131,11 +125,8 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>Microsoft Office</strong>
 </td>
 
-
-
-
 <td align="center" width="120">
-<a href="#" target="_blank">
+<a href="https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/network-switch-how.html" target="_blank">
 <img src="https://w7.pngwing.com/pngs/974/626/png-transparent-network-switch-computer-icons-computer-network-switch-miscellaneous-electronics-local-area-network.png"
 width="70"
 style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
@@ -143,10 +134,8 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>Switching</strong>
 </td>
 
-
-
 <td align="center" width="120">
-<a href="#" target="_blank">
+<a href="https://aws.amazon.com/pt/route53/what-is-dns/" target="_blank">
 <img src="https://symbols.getvecta.com/stencil_27/42_dns.092432ba49.jpg"
 width="70"
 style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
@@ -155,7 +144,7 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 </td>
 
 <td align="center" width="120">
-<a href="#" target="_blank">
+<a href="https://support.microsoft.com/pt-br/office/o-que-%C3%A9-um-firewall-6870c88d-69b6-4db4-9cb1-0e4afa7a8603" target="_blank">
 <img src="https://img.freepik.com/vetores-premium/estilo-de-icone-de-bloqueio-de-seguranca-do-firewall-de-design-vetorial_822882-131686.jpg?semt=ais_hybrid&w=740&q=80"
 width="70"
 style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
@@ -164,7 +153,7 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 </td>
 
 <td align="center" width="120">
-<a href="#" target="_blank">
+<a href="https://dutotec.com.br/blog/projeto-eletrico/cabeamento-estruturado/" target="_blank">
 <img src="https://img.freepik.com/vetores-premium/icone-de-rede-de-cabo-ethernet-em-branco_116137-9273.jpg"
 width="70"
 style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
@@ -173,7 +162,7 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 </td>
 
 <td align="center" width="120">
-<a href="#" target="_blank">
+<a href="https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/what-is-a-router.html" target="_blank">
 <img src="https://www.shutterstock.com/image-vector/vector-simple-isolated-modem-icon-600nw-2676021151.jpg"
 width="70"
 style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
@@ -183,7 +172,6 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 
 </tr>
 </table>
-
 
 
 
