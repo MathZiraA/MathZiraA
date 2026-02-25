@@ -116,6 +116,9 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>Microsoft Office</strong>
 </td>
 
+</tr>
+
+<tr>
 
 <td align="center" width="120">
 <a href="#" target="_blank">
@@ -162,6 +165,10 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>Firewall</strong>
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="120">
 <a href="#" target="_blank">
 <img src="https://img.freepik.com/vetores-premium/icone-de-rede-de-cabo-ethernet-em-branco_116137-9273.jpg"
@@ -172,8 +179,8 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 </td>
 
 </tr>
-</table>
 
+</table>
 
 
 
