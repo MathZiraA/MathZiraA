@@ -116,7 +116,6 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>Microsoft Office</strong>
 </td>
 
-</tr>
 
 <tr>
 
@@ -178,9 +177,16 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <br><strong>Cabeamento Estruturado</strong>
 </td>
 
+<td width="120"></td>
+<td width="120"></td>
+<td width="120"></td>
+<td width="120"></td>
+
 </tr>
 
+</tr>
 </table>
+
 
 
 
