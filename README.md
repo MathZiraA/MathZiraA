@@ -10,6 +10,7 @@
 
 🎓 Técnico em Redes e Computadores  
 🌐 Foco em Infraestrutura, Segurança e Desenvolvimento 
+
 🖥️ Apaixonado por Servidores e Redes Corporativas  
 
 
