@@ -9,7 +9,7 @@
 ## 👨‍💻 Sobre mim
 
 🎓 Técnico em Redes e Computadores  
-🌐 Foco em Infraestrutura e Segurança  
+🌐 Foco em Infraestrutura, Segurança e Desenvolvimento 
 🖥️ Apaixonado por Servidores e Redes Corporativas  
 
 
@@ -235,6 +235,14 @@ width="70"
 style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
 </a>
 <br><strong>Nginx</strong>
+</td>
+<td align="center" width="120">
+<a href="https://www.vmware.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/960px-Vmware_workstation_16_icon.svg.png?_=20200923084801"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>VMware</strong>
 </td>
 
 </tr>
