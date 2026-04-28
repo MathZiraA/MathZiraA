@@ -171,6 +171,73 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 </td>
 
 </tr>
+
+<tr>
+
+<td align="center" width="120">
+<a href="https://www.fortinet.com/" target="_blank">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtwMkhmSp7FqIQKoqYW8epUYDvZAs4uaUrkw&s"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>Fortinet</strong>
+</td>
+
+<td align="center" width="120">
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/aws.webp"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>AWS</strong>
+</td>
+
+<td align="center" width="120">
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/250px-Microsoft_Azure.svg.png"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>Azure</strong>
+</td>
+
+<td align="center" width="120">
+<a href="https://grafana.com/" target="_blank">
+<img src="https://images.icon-icons.com/2699/PNG/512/grafana_logo_icon_171048.png"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>Grafana</strong>
+</td>
+
+<td align="center" width="120">
+<a href="https://www.zabbix.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zabbix_logo_square.svg"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>Zabbix</strong>
+</td>
+
+<td align="center" width="120">
+<a href="https://prometheus.io/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1280px-Prometheus_software_logo.svg.png"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>Prometheus</strong>
+</td>
+
+<td align="center" width="120">
+<a href="https://www.nginx.com/" target="_blank">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-nginx-logo-icon-svg-download-png-3030173.png?f=webp&w=128"
+width="70"
+style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background-color: white;">
+</a>
+<br><strong>Nginx</strong>
+</td>
+
+</tr>
 </table>
 
 
