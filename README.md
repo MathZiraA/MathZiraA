@@ -333,10 +333,6 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
   
 </table>
 
-
-
-
-
 ---
 
 <h1 align="center">📊 MathZiraA</h1>
@@ -356,22 +352,6 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
     src="https://streak-stats.demolab.com?user=MathZiraA&theme=radical&hide_border=false" 
     height="170"
   />
-</p>
-
----
-
-## 🖥️ Tecnologias
-
-<p align="center">
-
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
-
 </p>
 
 ---
