@@ -304,6 +304,33 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
     </td>
   </tr>
 
+<tr><td colspan="2"><br></td></tr>
+  <!-- AWS Academy Cloud Foundations -->
+  <tr>
+    <td width="120">
+      <img src="https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="AWS Academy Cloud Foundations Badge">
+    </td>
+    <td>
+      <strong>AWS Academy Graduate - Cloud Foundations</strong><br>
+      <a href="https://www.credly.com/badges/26d421da-fb3c-4399-abf6-855e0268e809" target="_blank">
+        <img src="https://img.shields.io/badge/🎓%20Ver%20Credencial-121212?style=for-the-badge&logo=amazonaws&logoColor=00FFD9&color=00FFD9&labelColor=121212">
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <!-- Fortinet Certified Associate Cybersecurity -->
+  <tr>
+    <td width="120">
+      <img src="https://images.credly.com/size/220x220/images/20082fc1-94af-4773-9df0-28856b566748/image.png" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="Fortinet Certified Associate Cybersecurity Badge">
+    </td>
+    <td>
+      <strong>Fortinet Certified Associate Cybersecurity</strong><br>
+      <a href="https://www.credly.com/earner/earned/share/cf82be9b-3b3a-4f18-8aba-dea441fa30d8" target="_blank">
+        <img src="https://img.shields.io/badge/🎓%20Ver%20Credencial-121212?style=for-the-badge&logo=fortinet&logoColor=00FFD9&color=00FFD9&labelColor=121212">
+      </a>
+    </td>
+  </tr>
+  
 </table>
 
 
