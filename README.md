@@ -338,9 +338,9 @@ style="border: 2px solid #00FFD9; border-radius: 12px; padding: 10px; background
 <h1 align="center">📊 MathZiraA</h1>
 
 <p align="center">
-  🚀 Técnico em Redes e Computadores  
+  🚀 Técnico em Redes e Computadores e Desenvolvimento de Sistemas
   <br>
-  🌐 Infraestrutura | Servidores | Cloud
+  🌐 Infraestrutura | Servidores | Cloud | DEV | Monitoring
 </p>
 
 ---
