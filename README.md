@@ -1,55 +1,24 @@
-<div align="center">
+<h1 align="center">🚀 Técnico em Redes de Computadores & Desenvolvimento de Sistemas</h1>
 
-```
-███╗   ███╗ █████╗ ████████╗██╗  ██╗███████╗██╗   ██╗███████╗    ███████╗██╗██████╗  █████╗ ██╗   ██╗███████╗██╗     ██╗      ██████╗
-████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██╔════╝██║   ██║██╔════╝    ╚══███╔╝██║██╔══██╗██╔══██╗██║   ██║██╔════╝██║     ██║     ██╔═══██╗
-██╔████╔██║███████║   ██║   ███████║█████╗  ██║   ██║███████╗      ███╔╝ ██║██████╔╝███████║██║   ██║█████╗  ██║     ██║     ██║   ██║
-██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██╔══╝  ██║   ██║╚════██║     ███╔╝  ██║██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██║     ██║     ██║   ██║
-██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║███████╗╚██████╔╝███████║    ███████╗██║██║  ██║██║  ██║ ╚████╔╝ ███████╗███████╗███████╗╚██████╔╝
-╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝    ╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚══════╝ ╚═════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD9&center=true&vCenter=true&width=700&lines=Network+%26+Security+Engineer;Systems+Developer;Multi-Cloud+Architect+%7C+AWS+%7C+Azure+%7C+GCP;Cisco+CCNA+%7C+Fortinet+%7C+pfSense;IoT+%7C+Arduino+%7C+MQTT;Always+learning%2C+always+building." alt="Typing SVG" />
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/MathZiraA?style=for-the-badge&color=00FFD9&labelColor=0d1117&logo=github)](https://github.com/MathZiraA)
-[![Profile Views](https://komarev.com/ghpvc/?username=MathZiraA&style=for-the-badge&color=00FFD9&labelColor=0d1117)](https://github.com/MathZiraA)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD9&center=true&vCenter=true&width=700&lines=Network+%26+Security+Engineer;Systems+Developer;Multi-Cloud+Architect+%7C+AWS+%7C+Azure+%7C+GCP;Cisco+CCNA+%7C+Fortinet+%7C+pfSense;IoT+%7C+Arduino+%7C+MQTT;Always+learning%2C+always+building." alt="Typing SVG" />
+</p>
 
 ---
 
-## `$ whoami`
+## 👨‍💻 Sobre mim
 
-```yaml
-name:     Matheus Ziravello
-alias:    MathZiraA
-role:     Network & Security Engineer · Systems Developer
-location: Brasil 🇧🇷
-school:   SENAI — Técnico em Redes de Computadores & Desenvolvimento de Sistemas
+🎓 Técnico em **Redes de Computadores** & **Desenvolvimento de Sistemas** — SENAI
 
-focus:
-  - Infraestrutura corporativa de TI
-  - Segurança de redes (Firewall, VPN, IDS/IPS)
-  - Arquitetura Multi-Cloud (AWS · Azure · GCP)
-  - Monitoramento e observabilidade (Zabbix · Grafana · Prometheus)
-  - Desenvolvimento de sistemas e automação
-  - IoT embarcado (Arduino · MQTT)
+🌐 Foco em Infraestrutura, Segurança, Cloud e Desenvolvimento
 
-currently:
-  - Estudando para CCNA completo
-  - Explorando infraestrutura como código (IaC)
-  - Desenvolvendo projetos de automação de redes
-
-open_to:   Estágios · Freela · Colaborações técnicas
-```
+🖥️ Apaixonado por Servidores, Redes Corporativas e Automação de TI
 
 ---
 
-## `$ cat skills.cfg`
+## 🛠️ Habilidades & Ferramentas
 
-<h3>🌐 Redes & Infraestrutura</h3>
+<h3>🌐 Redes & Segurança</h3>
 
 <table>
 <tr>
@@ -110,70 +79,65 @@ open_to:   Estágios · Freela · Colaborações técnicas
 
 ---
 
-## `$ cat certifications.log`
+## 🏅 Certificações
 
 <table>
   <tr>
-    <td width="110" align="center">
-      <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="90" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;">
+    <td width="120">
+      <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="CCNA ITN Badge">
     </td>
     <td>
       <strong>CCNA: Introduction to Networks</strong><br>
-      <sub>🏢 Cisco · Networking Academy</sub><br><br>
       <a href="https://www.credly.com/badges/f671fccc-1072-460d-8011-81e3b06558a0/public_url" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Credencial-Credly-00FFD9?style=for-the-badge&logo=credly&logoColor=white&labelColor=0d1117">
+        <img src="https://img.shields.io/badge/🎓%20Ver%20Credencial-121212?style=for-the-badge&logo=mozilla%20firefox&logoColor=00FFD9&color=00FFD9&labelColor=121212">
       </a>
     </td>
   </tr>
-  <tr><td colspan="2"><hr style="border-color:#00FFD933"></td></tr>
+  <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td width="110" align="center">
-      <img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="90" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;">
+    <td width="120">
+      <img src="https://images.credly.com/size/680x680/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="Switching Routing Badge">
     </td>
     <td>
-      <strong>CCNA: Switching, Routing & Wireless Essentials</strong><br>
-      <sub>🏢 Cisco · Networking Academy</sub><br><br>
+      <strong>CCNA: Switching, Routing, and Wireless Essentials</strong><br>
       <a href="https://www.credly.com/badges/b1fb1b70-3c64-4a23-8f4d-d131164500e0/public_url" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Credencial-Credly-00FFD9?style=for-the-badge&logo=credly&logoColor=white&labelColor=0d1117">
+        <img src="https://img.shields.io/badge/🎓%20Ver%20Credencial-121212?style=for-the-badge&logo=mozilla%20firefox&logoColor=00FFD9&color=00FFD9&labelColor=121212">
       </a>
     </td>
   </tr>
-  <tr><td colspan="2"><hr style="border-color:#00FFD933"></td></tr>
+  <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td width="110" align="center">
-      <img src="https://images.credly.com/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="90" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;">
+    <td width="120">
+      <img src="https://images.credly.com/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="Google Cloud Cybersecurity Badge">
     </td>
     <td>
-      <strong>Implantação de Serviços de Cibersegurança em Nuvem</strong><br>
-      <sub>🏢 Google Cloud</sub><br><br>
+      <strong>Implantação de Serviços de Cibersegurança em Nuvem — Google Cloud</strong><br>
       <a href="https://image2url.com/r2/default/files/1771959050883-989b9b7a-ddc2-4670-bba7-cb32743804d2.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Certificado-Google%20Cloud-00FFD9?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0d1117">
+        <img src="https://img.shields.io/badge/☁️%20Ver%20Certificado-121212?style=for-the-badge&logo=googlecloud&logoColor=00FFD9&color=00FFD9&labelColor=121212">
       </a>
     </td>
   </tr>
-  <tr><td colspan="2"><hr style="border-color:#00FFD933"></td></tr>
+  <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td width="110" align="center">
-      <img src="https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="90" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;">
+    <td width="120">
+      <img src="https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="AWS Academy Cloud Foundations Badge">
     </td>
     <td>
       <strong>AWS Academy Graduate — Cloud Foundations</strong><br>
-      <sub>🏢 Amazon Web Services</sub><br><br>
       <a href="https://www.credly.com/badges/26d421da-fb3c-4399-abf6-855e0268e809" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Credencial-Credly-00FFD9?style=for-the-badge&logo=credly&logoColor=white&labelColor=0d1117">
+        <img src="https://img.shields.io/badge/🎓%20Ver%20Credencial-121212?style=for-the-badge&logo=amazonaws&logoColor=00FFD9&color=00FFD9&labelColor=121212">
       </a>
     </td>
   </tr>
-  <tr><td colspan="2"><hr style="border-color:#00FFD933"></td></tr>
+  <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td width="110" align="center">
-      <img src="https://images.credly.com/size/220x220/images/20082fc1-94af-4773-9df0-28856b566748/image.png" width="90" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;">
+    <td width="120">
+      <img src="https://images.credly.com/size/220x220/images/20082fc1-94af-4773-9df0-28856b566748/image.png" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="Fortinet Certified Associate Cybersecurity Badge">
     </td>
     <td>
       <strong>Fortinet Certified Associate Cybersecurity</strong><br>
-      <sub>🏢 Fortinet</sub><br><br>
       <a href="https://www.credly.com/earner/earned/share/cf82be9b-3b3a-4f18-8aba-dea441fa30d8" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Credencial-Credly-00FFD9?style=for-the-badge&logo=credly&logoColor=white&labelColor=0d1117">
+        <img src="https://img.shields.io/badge/🎓%20Ver%20Credencial-121212?style=for-the-badge&logo=fortinet&logoColor=00FFD9&color=00FFD9&labelColor=121212">
       </a>
     </td>
   </tr>
@@ -181,41 +145,37 @@ open_to:   Estágios · Freela · Colaborações técnicas
 
 ---
 
-## `$ git log --stats`
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MathZiraA&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FFD9&icon_color=00FFD9&text_color=c9d1d9&ring_color=00FFD9" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathZiraA&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FFD9&text_color=c9d1d9" height="160"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MathZiraA&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FFD9&icon_color=00FFD9&text_color=c9d1d9&ring_color=00FFD9" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathZiraA&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FFD9&text_color=c9d1d9" height="160"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=MathZiraA&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FFD9&fire=00FFD9&currStreakLabel=00FFD9&sideLabels=c9d1d9&dates=8b949e" height="160"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MathZiraA&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FFD9&fire=00FFD9&currStreakLabel=00FFD9&sideLabels=c9d1d9&dates=8b949e" height="160"/>
+</p>
 
 ---
 
-## `$ ping -c 1 contact`
+## 📬 Contato
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Ziravello-00FFD9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/mathziraa)
-[![GitHub](https://img.shields.io/badge/GitHub-MathZiraA-00FFD9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/MathZiraA)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mathziraa.github.io-00FFD9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://mathziraa.github.io)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/mathziraa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Ziravello-00FFD9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117">
+  </a>
+  <a href="https://github.com/MathZiraA" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-MathZiraA-00FFD9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117">
+  </a>
+  <a href="https://mathziraa.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-mathziraa.github.io-00FFD9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117">
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  "A rede não mente. O log não perdoa. O uptime é lei."  ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<img src="https://komarev.com/ghpvc/?username=MathZiraA&style=for-the-badge&color=00FFD9&labelColor=0d1117&label=PROFILE+VIEWS"/>
-
-</div>
+<p align="center">
+  💡 "Infraestrutura forte é base de tudo."
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=MathZiraA&style=for-the-badge&color=00FFD9&labelColor=0d1117&label=PROFILE+VIEWS"/>
+</p>
