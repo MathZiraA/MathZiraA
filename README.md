@@ -108,6 +108,18 @@
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td width="120">
+      <img src="https://images.credly.com/size/680x680/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="CCNA ENSA Badge">
+    </td>
+    <td>
+      <strong>CCNA: Enterprise Networking, Security and Automation</strong><br>
+      <a href="https://www.credly.com/badges/93584b05-5748-431a-b7ca-2e0aefd1bcbf/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/🎓%20Ver%20Credencial-121212?style=for-the-badge&logo=mozilla%20firefox&logoColor=00FFD9&color=00FFD9&labelColor=121212">
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="120">
       <img src="https://images.credly.com/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="Google Cloud Cybersecurity Badge">
     </td>
     <td>
