@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-ziravello-283b18310"><img src="https://img.shields.io/badge/LinkedIn-Matheus%20Ziravello-00FFD9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"></a>
+  <a href="https://www.linkedin.com/in/matheusziravello"><img src="https://img.shields.io/badge/LinkedIn-Matheus%20Ziravello-00FFD9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"></a>
   <a href="https://mathziraa.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-mathziraa.github.io-00FFD9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117"></a>
   <a href="https://www.florgestr.com"><img src="https://img.shields.io/badge/FlowGest-CRM%20SaaS-00FFD9?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117"></a>
 </p>
@@ -67,11 +67,11 @@ Mais projetos (Azure, ESXi + Zabbix + Grafana, labs Cisco, IoT) no **[portfólio
 | CCNA: Switching, Routing and Wireless Essentials | Cisco | [Ver](https://www.credly.com/badges/b1fb1b70-3c64-4a23-8f4d-d131164500e0/public_url) |
 | CCNA: Enterprise Networking, Security and Automation | Cisco | [Ver](https://www.credly.com/badges/93584b05-5748-431a-b7ca-2e0aefd1bcbf/public_url) |
 | Fortinet Certified Associate in Cybersecurity | Fortinet | [Ver](https://www.credly.com/earner/earned/share/cf82be9b-3b3a-4f18-8aba-dea441fa30d8) |
-| Fortinet Certified Fundamentals in Cybersecurity | Fortinet | [LinkedIn](https://www.linkedin.com/in/matheus-ziravello-283b18310/details/certifications/) |
+| Fortinet Certified Fundamentals in Cybersecurity | Fortinet | [LinkedIn](https://www.linkedin.com/in/matheusziravello/details/certifications/) |
 | AWS Academy Graduate: Cloud Foundations | AWS | [Ver](https://www.credly.com/badges/26d421da-fb3c-4399-abf6-855e0268e809) |
-| Oracle Cloud Infrastructure | Oracle · Alura | [LinkedIn](https://www.linkedin.com/in/matheus-ziravello-283b18310/details/certifications/) |
+| Oracle Cloud Infrastructure | Oracle · Alura | [LinkedIn](https://www.linkedin.com/in/matheusziravello/details/certifications/) |
 | Implantação de Serviços de Cibersegurança em Nuvem (Google Cloud) | SENAI | [Verificar](https://www.sp.senai.br/consulta-certificado?qrcode=13424245684/14772837) |
-| Administração em Servidores Windows | SENAI | [LinkedIn](https://www.linkedin.com/in/matheus-ziravello-283b18310/details/certifications/) |
+| Administração em Servidores Windows | SENAI | [LinkedIn](https://www.linkedin.com/in/matheusziravello/details/certifications/) |
 
 ---
 
