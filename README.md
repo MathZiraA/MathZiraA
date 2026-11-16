@@ -25,6 +25,7 @@
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| **[NOC SENAI (TCC)](https://github.com/MathZiraA/noc-senai-tcc)** | NOC que monitora a redundância Fibra x Rádio com MikroTik/OSPF, cronometra o failover e investiga incidentes com analista de IA; painel SennaGuard com chamados e SLA | Zabbix 7 · Grafana · MikroTik · OSPF · FastAPI · React · Gemini |
 | **[FlowGest](https://www.florgestr.com)** | CRM SaaS em produção: funil de vendas, lembretes, agenda com Google Calendar, pagamentos via Pix e cartão | React · Node.js · TypeScript · PostgreSQL · Docker |
 | **[Jarvis](https://github.com/MathZiraA/jarvis)** | Assistente pessoal por voz em pt-BR com wake word, confirmação verbal e conectores | Node.js · Claude Agent SDK · Web Speech API · systemd |
 | **[TechStock](https://github.com/MathZiraA/Projeto-Final-Redes-3-Semestre-ENTREGA-AWS-AZURE-FINAL)** | Infraestrutura multi-cloud provisionada com Terraform, com relatórios de custo | AWS · Azure · Terraform · RDS · Power BI |
